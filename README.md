@@ -2,7 +2,7 @@
 Data cleaning and preparation of Montgomery Fleet Equipment Inventory using Excel techniques.
 # Fleet Equipment Inventory – Data Cleaning Project
 
-![Cleaned Data Preview](cleaned_data_preview.png)
+![Cleaned Data Preview](cleaned_excel_table_preview.png)
 
 ## Project Overview
 This project focuses on cleaning and preparing a fleet equipment inventory dataset that was originally poorly formatted after conversion from its source system.
